@@ -20,10 +20,12 @@
         "backgroundColor": "#ffffff"
       },
       "package": "sci.lru.sciherb",
-      "versionCode": 1
+      "versionCode": 3,
+      "targetSdkVersion": 34  
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },  
+    "sdkVersion": "48.0.0"  
   }
 }
